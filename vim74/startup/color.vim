@@ -6,4 +6,7 @@
 "color molokai
 "color skittles_dark
 "color skittles_berry
-color solarized
+"color solarized
+"color badwolf
+color IDLE
+
