@@ -1,6 +1,6 @@
 "============== Settings ================
 
-set guifont=Inconsolata:h15:b:cANSI
+set guifont=Inconsolata:h15:cANSI
 set backspace=eol,start,indent
 set wildmenu
 set nocompatible

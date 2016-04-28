@@ -1,3 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='C:/Users/Michael/Documents/College/Programming/Web Dev/Assignment2/css'
+let g:netrw_dirhist_2='C:/Users/Michael/Documents/College/Software Engineering/DublinBikes/webpage/css'
+let g:netrw_dirhist_3='C:/Users/Michael/Documents/College/Software Engineering/DublinBikes/webpage'
+let g:netrw_dirhist_4='C:/Users/Michael/Documents/College/Software Engineering/DublinBikes/templates'
+let g:netrw_dirhist_5='C:/Users/Michael/Desktop/Testing Bikes/static'
